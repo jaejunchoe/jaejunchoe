@@ -7,6 +7,7 @@
 
 자세한 사항은 저의 CV(Curriculum Vitae)를 첨부할테니 참고해주시면 감사하겠습니다.
 
+## Introduce
 
 Hello! Thank you for visiting my GitHub.
 
