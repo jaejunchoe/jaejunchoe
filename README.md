@@ -6,7 +6,6 @@
 현재 저는 국립금오공과대학교 산업공학과의 추상현 교수님께서 지도하시는 Intelligent Data Science(IDS) Laboratory에 학부 레지던트로 소속되어있습니다.
 주로 파이썬(Google colab)을 통해 머신러닝/딥러닝을 활용하여 불량 검출하는 것에 관심있으며, 관심분야는 Defect Detection, Quality Engineering, Smart Factory입니다.
 
-자세한 사항은 저의 CV(Curriculum Vitae)를 첨부할테니 참고해주시면 감사하겠습니다.
 
 ## Introduce
 
@@ -18,7 +17,6 @@ Currently, I am an undergraduate resident at the Intelligent Data Science (IDS) 
 
 I am particularly interested in using machine learning/deep learning for defect detection, primarily through Python (Google Colab). My areas of interest include Defect Detection, Quality Engineering, and Smart Factory.
 
-For more details, please refer to my attached CV(Curriculum Vitae).
 
 
 
