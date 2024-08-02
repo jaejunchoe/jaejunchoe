@@ -18,7 +18,7 @@ Currently, I am an undergraduate resident at the Intelligent Data Science (IDS) 
 I am particularly interested in using machine learning/deep learning for defect detection, primarily through Python (Google Colab). My areas of interest include Defect Detection, Quality Engineering, and Smart Factory.
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaejunchoe&show_icons=true&theme=dracula)
 
 
 
