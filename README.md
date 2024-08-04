@@ -23,6 +23,7 @@ Currently, I am an undergraduate resident at the Intelligent Data Science (IDS) 
 - **Applications:** `Defect Detection, Manufacturing, Smart Factory`
 
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaejunchoe&show_icons=true&theme=dracula)
 
 
