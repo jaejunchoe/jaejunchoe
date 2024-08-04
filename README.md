@@ -10,8 +10,6 @@
 
 
 
-
-
 ## Introduce
 
 Hello! Thank you for visiting my GitHub.
@@ -21,7 +19,6 @@ Currently, I am an undergraduate resident at the Intelligent Data Science (IDS) 
 
 - **Methodology:** `Data Analysis, Data Mining, Machine Learning, Deep Learning`
 - **Applications:** `Defect Detection, Manufacturing, Smart Factory`
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaejunchoe&show_icons=true&theme=dracula)
