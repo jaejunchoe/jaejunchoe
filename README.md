@@ -20,7 +20,7 @@ I am Jaehun Choe, a student at Kumoh National Institute of Technology, majoring 
 Currently, I am an undergraduate resident at the Intelligent Data Science (IDS) Laboratory led by Professor Sang-hyun Choo of the Department of Industrial Engineering at Kumoh National Institute of Technology.
 
 - **Methodology:** `Data Analysis, Data Mining, Machine Learning, Deep Learning`
-- **Applications:** `Defect Detection, Manufacturing, Smart Factory`
+- **Applications:** `Defect Detection, Quality Control, Predictive analytics for maintenance, Smart Factory`
 
 
 
