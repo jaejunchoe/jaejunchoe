@@ -6,7 +6,7 @@
 
 현재 저는 국립금오공과대학교 산업공학과의 추상현 교수님께서 지도하시는 Intelligent Data Science(IDS) Laboratory에 학부 레지던트로 소속되어있습니다.
 
--	**GPA(Overall):** `3.81 / 4.5`, **GPA(Major):** `3.86 / 4.5`
+-	**GPA(Overall):** `3.81 / 4.5`, **GPA(Major):** `3.85 / 4.5`
 - **Methodology:** `Data Analysis, Data Mining, Machine Learning, Deep Learning`
 - **Applications:** `Defect Detection, Quality Control, Predictive analytics for maintenance, Smart Factory`
 
