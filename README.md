@@ -1,5 +1,5 @@
 ## Contact
-**E-mail:** `cjj1222@kumoh.ac.kr or cjj2012@naver.com`
+**E-mail:** `cjj1222@kumoh.ac.kr` or `cjj2012@naver.com`
 
 ## 간단한 자기소개
 
