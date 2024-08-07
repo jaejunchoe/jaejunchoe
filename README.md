@@ -1,3 +1,6 @@
+## Contact
+**E-mail:** `cjj1222@kumoh.ac.kr or cjj2012@naver.com`
+
 ## 간단한 자기소개
 
 안녕하세요! 저의 GitHub에 방문해주신 것에 감사합니다.
