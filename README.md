@@ -11,7 +11,7 @@
 
 -	**GPA(Overall):** `3.81 / 4.5`, **GPA(Major):** `3.85 / 4.5`
 - **Methodology:** `Data Analysis, Data Mining, Machine Learning, Deep Learning`
-- **Applications:** `Defect Detection, Quality Control, Predictive analytics for maintenance, Smart Factory`
+- **Applications:** `Defect Detection, Quality Control, Anomaly Detection, Predictive analytics for maintenance`
 
 
 
@@ -25,7 +25,7 @@ Currently, I am an undergraduate resident at the Intelligent Data Science (IDS) 
 
 -	**GPA(Overall):** `3.81 / 4.5`, **GPA(Major):** `3.85 / 4.5`
 - **Methodology:** `Data Analysis, Data Mining, Machine Learning, Deep Learning`
-- **Applications:** `Defect Detection, Quality Control, Predictive analytics for maintenance, Smart Factory`
+- **Applications:** `Defect Detection, Quality Control, Anomaly Detection, Predictive analytics for maintenance`
 
 
 
