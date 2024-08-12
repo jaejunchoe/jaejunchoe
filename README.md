@@ -1,6 +1,9 @@
 ## Contact
 **E-mail:** `cjj1222@kumoh.ac.kr` or `cjj2012@naver.com`
 
+## Ongoing
+- Salakhov, T., Jeon, M., **Choe, J.**, Kim, M.* (In preparation) Design of Data-Driven Industrial Energy Management Service Concepts Using Electricity Consumption Data: A Case Study on the Gumi National Industrial Complex in South Korea.
+
 ## 간단한 자기소개
 
 안녕하세요! 저의 GitHub에 방문해주신 것에 감사합니다.
