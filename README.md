@@ -22,7 +22,7 @@
 
 Hello! Thank you for visiting my GitHub.
 
-I am Jaehun Choe, a student at Kumoh National Institute of Technology, majoring in Industrial Engineering and Smart Factory Convergence. I started my studies in March 2019 and will graduate in March 2025.
+I am Jaejun Choe, a student at Kumoh National Institute of Technology, majoring in Industrial Engineering and Smart Factory Convergence. I started my studies in March 2019 and will graduate in March 2025.
 
 Currently, I am an undergraduate resident at the [Human-centered Artificial Intelligence and Data Science (HAIDS) Laboratory](https://sites.google.com/view/ids-kit) led by Professor Sang-hyun Choo of the Department of Industrial Engineering at Kumoh National Institute of Technology.
 
