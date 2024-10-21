@@ -12,7 +12,6 @@
 
 현재 저는 국립금오공과대학교 산업공학과의 추상현 교수님께서 지도하시는 [Human-centered Artificial Intelligence and Data Science (HAIDS) Laboratory](https://sites.google.com/view/ids-kit)에 학부 레지던트로 소속되어있습니다.
 
--	**GPA(Overall):** `3.81 / 4.5`, **GPA(Major):** `3.85 / 4.5`
 - **Methodology:** `Data Analysis, Data Mining, Machine Learning, Deep Learning`
 - **Applications:** `Defect Detection, Quality Control, Anomaly Detection, Predictive analytics for maintenance`
 
@@ -26,7 +25,6 @@ I am Jaejun Choe, a student at Kumoh National Institute of Technology, majoring 
 
 Currently, I am an undergraduate resident at the [Human-centered Artificial Intelligence and Data Science (HAIDS) Laboratory](https://sites.google.com/view/ids-kit) led by Professor Sang-hyun Choo of the Department of Industrial Engineering at Kumoh National Institute of Technology.
 
--	**GPA(Overall):** `3.81 / 4.5`, **GPA(Major):** `3.85 / 4.5`
 - **Methodology:** `Data Analysis, Data Mining, Machine Learning, Deep Learning`
 - **Applications:** `Defect Detection, Quality Control, Anomaly Detection, Predictive analytics for maintenance`
 
