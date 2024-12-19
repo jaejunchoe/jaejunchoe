@@ -2,7 +2,7 @@
 **E-mail:** `cjj1222@kumoh.ac.kr` or `cjj2012@naver.com`
 
 ## Ongoing
-- none
+- under review
 
 ## 소개
 
