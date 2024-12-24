@@ -1,30 +1,23 @@
-## Contact
+# Contact
 **E-mail:** `cjj1222@kumoh.ac.kr` or `cjj2012@naver.com`
 
-## Ongoing
+# Ongoing
 - under review
 
-## 소개
-
-안녕하세요! 저의 GitHub에 방문해주신 것에 감사합니다.
-
-저는 국립금오공과대학교 재학 중이며, 산업공학과와 스마트공장융합전공을 이수하고 있는 19학번 최재준입니다.
-
-현재 저는 국립금오공과대학교 산업공학과의 추상현 교수님께서 지도하시는 [Human-centered Artificial Intelligence and Data Science (HAIDS) Laboratory](https://sites.google.com/view/ids-kit)에 학부 레지던트로 소속되어있습니다.
-
-- **Methodology:** `Data Analysis, Data Mining, Machine Learning, Deep Learning`
-- **Applications:** `Defect Detection, Quality Control, Anomaly Detection, Predictive analytics for maintenance`
-
-
-
-## Introduce
+# Introduce
 
 Hello! Thank you for visiting my GitHub.
 
-I am Jaejun Choe, a student at Kumoh National Institute of Technology, majoring in Industrial Engineering and Smart Factory Convergence. I started my studies in March 2019 and will graduate in March 2025.
+  ## Education
+  - Aug. 2023 - present, Covergence Major, Major of Smart Factory, Kumoh National Institute of Technology (KIT), Gumi, Korea
+  - Mar. 2019 - present, B.S., Department of Industrial Engineering, Kumoh National Institute of Technology (KIT), Gumi, Korea
 
-Currently, I am an undergraduate resident at the [Human-centered Artificial Intelligence and Data Science (HAIDS) Laboratory](https://sites.google.com/view/ids-kit) led by Professor Sang-hyun Choo of the Department of Industrial Engineering at Kumoh National Institute of Technology.
+  ## Experience
+  - Mar. 2024 - present, Undergraduate Research Assistant Student, [HAIDS Lab](https://sites.google.com/view/ids-kit/home), Department of Industrial Engineering, Kumoh National Institute of Technology (KIT), Gumi, Korea
+  - Apr. 2023 - Feb. 2024, Undergraduate Research Student, Kumoh National Institute of Technology Industry-academic Cooperation Foundation, Kumoh National Institute of Technology (KIT), Gumi, Korea   
 
+
+# Interest
 - **Methodology:** `Data Analysis, Data Mining, Machine Learning, Deep Learning`
 - **Applications:** `Defect Detection, Quality Control, Anomaly Detection, Predictive analytics for maintenance`
 
