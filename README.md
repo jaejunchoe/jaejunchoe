@@ -16,6 +16,11 @@ Hello! Thank you for visiting my GitHub.
   - Mar. 2024 - present, Undergraduate Research Assistant Student, [HAIDS Lab](https://sites.google.com/view/ids-kit/home), Department of Industrial Engineering, Kumoh National Institute of Technology (KIT), Gumi, Korea
   - Apr. 2023 - Feb. 2024, Undergraduate Research Student, Kumoh National Institute of Technology Industry-academic Cooperation Foundation, Kumoh National Institute of Technology (KIT), Gumi, Korea   
 
+  ## Publication
+  ### Conference Poster
+  - Tagir Salakhov, 전민욱, 최재준, & 김민준. (2024). 데이터 기반의 에너지 관리 서비스 아이디어 도출: 구미국가산업단지의 데이터를 활용한 사례연구. 대한산업공학회 춘계공동학술대회 논문집, 2557-2557.
+
+  - 2024 Spring Joint Conference of KORMS and KIIE 
 
 # Interest
 - **Methodology:** `Data Analysis, Data Mining, Machine Learning, Deep Learning`
