@@ -18,7 +18,7 @@ Hello! Thank you for visiting my GitHub.
 
   ## Publication
   ### Conference Poster
-  - Tagir Salakhov, 전민욱, 최재준, & 김민준. (2024). [데이터 기반의 에너지 관리 서비스 아이디어 도출: 구미국가산업단지의 데이터를 활용한 사례연구](https://github.com/jaejunchoe/2024-Spring-Joint-Conference-of-KORMS-and-KIIE). 대한산업공학회 춘계공동학술대회 논문집, 2557-2557.
+  - Tagir Salakhov, 전민욱, **최재준**, & 김민준. (2024). [데이터 기반의 에너지 관리 서비스 아이디어 도출: 구미국가산업단지의 데이터를 활용한 사례연구](https://github.com/jaejunchoe/2024-Spring-Joint-Conference-of-KORMS-and-KIIE). 대한산업공학회 춘계공동학술대회 논문집, 2557-2557.
 
 
 # Interest
