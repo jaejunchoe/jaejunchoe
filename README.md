@@ -1,6 +1,6 @@
 
 **Hello! Thank you for visiting my GitHub.** <br/><br/><br/>
-**E-mail:** `cjj1222@kumoh.ac.kr` or `cjj2012@naver.com`
+**E-mail:** `cjj1222@khu.ac.kr` or `cjj2012@naver.com`
 
 ---
 
